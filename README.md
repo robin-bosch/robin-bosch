@@ -103,5 +103,5 @@
 <!-- Footer -->
 <hr>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Prompt&size=28&duration=700&pause=100&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=500&lines=Feel+free+to+contact+me" />
+    <img src="https://readme-typing-svg.demolab.com?font=Prompt&size=28&duration=1&pause=100&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=500&lines=Feel+free+to+contact+me" />
 </p>
