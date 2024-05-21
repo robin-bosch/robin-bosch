@@ -55,7 +55,7 @@
         </p>
     </p>
     <p>
-        <h4 align="center">Version Control:</h4>
+        <h4 align="center">Version Control and Virtualization:</h4>
         <p align="center">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,19 +78,27 @@
 <h2 align="center">Showcase</h2>
 <div align="center">
     <div>
-        <a href="https://github.com/robin-bosch/CI_PP2_TO-DO-App" target="_blank">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=CI_PP2_TO-DO-App&theme=algolia" />
+        <a href="https://github.com/robin-bosch/where-in-the-world-frontend-mentor" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=where-in-the-world-frontend-mentor&theme=algolia" />
         </a>
-        <a href="https://github.com/robin-bosch/easybank-frontend-mentor" target="_blank">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=easybank-frontend-mentor&theme=algolia" />
-        </a>
-    </div>
-    <div>
         <a href="https://github.com/robin-bosch/calculator-frontend-mentor" target="_blank">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=calculator-frontend-mentor&theme=algolia" />
         </a>
+    </div>
+    <div>
         <a href="https://github.com/robin-bosch/bookmark-frontend-mentor" target="_blank">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=bookmark-frontend-mentor&theme=algolia" />
+        </a>
+        <a href="https://github.com/robin-bosch/ip-address-tracker-frontend-mentor" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=ip-address-tracker-frontend-mentor&theme=algolia" />
+        </a>
+    <div>
+    <div>
+        <a href="https://github.com/robin-bosch/easybank-frontend-mentor" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=easybank-frontend-mentor&theme=algolia" />
+        </a>
+        <a href="https://github.com/robin-bosch/CI_PP2_TO-DO-App" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robin-bosch&repo=CI_PP2_TO-DO-App&theme=algolia" />
         </a>
     <div>
     <br>
